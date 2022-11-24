@@ -1,0 +1,132 @@
+{
+    "beverages_inventory":{
+        "chocolateDrinks": {
+            "purchasePrice":"10",
+            "price":"20",
+            "quantity":"20"
+        },
+        "coffee": {
+            "purchasePrice":"5",
+            "price":"15",
+            "quantity":"30"
+        },
+        "tea":{
+            "purchasePrice":"5",
+            "price":"10",
+            "quantity":"20"
+        },
+        "soyDrinks":{
+            "purchasePrice":"15",
+            "price":"25",
+            "quantity":"40"
+        },
+        "pop":{
+            "purchasePrice":"20",
+            "price":"30",
+            "quantity":"10"
+        },
+        "soda":{
+            "purchasePrice":"2",
+            "price":"6",
+            "quantity":"50"
+        }
+    },
+    "phoneaccessories_inventory":{
+        "carryingCase": {
+            "purchasePrice":"50",
+            "price":"70",
+            "quantity":"7"
+        },
+        "earpieces": {
+            "purchasePrice":"80",
+            "price":"100",
+            "quantity":"25"
+        },
+        "screenGuards":{
+            "purchasePrice":"100",
+            "price":"120",
+            "quantity":"35"
+        }
+    },
+    "toiletries_inventory":{
+        "toiletPaper": {
+            "purchasePrice":"50",
+            "price":"70",
+            "quantity":"20"
+        },
+        "bodySoap": {
+            "purchasePrice":"20",
+            "price":"50",
+            "quantity":"40"
+        },
+        "scrubs":{
+            "purchasePrice":"30",
+            "price":"60",
+            "quantity":"35"
+        },
+        "bodyCreme":{
+            "purchasePrice":"20",
+            "price":"60",
+            "quantity":"45"
+        },
+        "shampoo":{
+            "purchasePrice":"60",
+            "price":"100",
+            "quantity":"10"
+        }
+    },
+    "pastry_inventory":{
+        "pizza": {
+            "purchasePrice":"10",
+            "price":"20",
+            "quantity":"25"
+        },
+        "burgers": {
+            "purchasePrice":"20",
+            "price":"50",
+            "quantity":"50"
+        },
+        "donuts":{
+            "purchasePrice":"5",
+            "price":"10",
+            "quantity":"50"
+        },
+        "muffins":{
+            "purchasePrice":"5",
+            "price":"10",
+            "quantity":"50"
+        },
+        "cheesecakes":{
+            "purchasePrice":"10",
+            "price":"20",
+            "quantity":"20"
+        }
+    },
+    "cosmetics_inventory":{
+        "perfumes": {
+            "purchasePrice":"120",
+            "price":"150",
+            "quantity":"15"
+        },
+        "vanishes": {
+            "purchasePrice":"80",
+            "price":"100",
+            "quantity":"10"
+        },
+        "nailPolish":{
+            "purchasePrice":"130",
+            "price":"150",
+            "quantity":"25"
+        },
+        "deodorants":{
+            "purchasePrice":"100",
+            "price":"130",
+            "quantity":"35"
+        },
+        "facialScrubs":{
+            "purchasePrice":"60",
+            "price":"80",
+            "quantity":"24"
+        }
+    }
+}

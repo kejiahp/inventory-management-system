@@ -1,0 +1,20 @@
+{
+  "1": {
+    "quantity": 2,
+    "productPrice": "10",
+    "soldFor": 20,
+    "category": "Beverages",
+    "productName": "chocolateDrinks",
+    "date": "2022-11-24",
+    "totalCost": 40
+  },
+  "2": {
+    "quantity": 4,
+    "productPrice": "60",
+    "soldFor": 80,
+    "category": "Cosmetics",
+    "productName": "facialScrubs",
+    "date": "2022-11-24",
+    "totalCost": 320
+  }
+}
